@@ -1,0 +1,8 @@
+1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 1 -nan(ind) -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 1 -nan(ind) -nan(ind) -nan(ind) 
+0 0 0 0 0 1 -nan(ind) -nan(ind) 
+0 0 0 0 0 0 1 -nan(ind) 
+0 0 0 0 0 0 0 1 
